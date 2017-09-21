@@ -9,7 +9,7 @@ buildscript {
   }
   dependencies {
     classpath 'com.google.protobuf:protobuf-gradle-plugin:0.8.0'
-    classpath "gradle.plugin.org.inferred:gradle-processors:${gradleProcessorsVersion}"
+    classpath "gradle.plugin.org.inferred:gradle-processors:1.2.8"
   }
 }
 
